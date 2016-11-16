@@ -16,12 +16,13 @@ The following repositories use this repository for their issue management:
 * https://github.com/SciSpike/docker-yaktor-node
 
 Those repositories do not have their **Issues** feature enabled.
-Any issues that were created in those directories have been closed and/or moved to this repository.
+Any issues that were created in those directories have been closed or moved to this repository.
 
 > NOTE: Pull requests can still be created in those repositories.
 
 ## Labels
-This repository also has extensive [labels](https://github.com/matthewadams/yaktor-issues/labels), defined in [labels.json](labels.json).
+This repository also has extensive [labels](https://github.com/matthewadams/yaktor-issues/labels), defined in [labels.json](labels.json) and created via [git-labelmaker](https://github.com/himynameisdave/git-labelmaker).
+The labels were inspired by Dave Lunny's blog post, ["Sane Github Labels"](https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63).
 
 ## Milestones
 There are also [milestones](https://github.com/matthewadams/yaktor-issues/milestones) defined for each repository listed above, in the form `<repo>@<version>`.
