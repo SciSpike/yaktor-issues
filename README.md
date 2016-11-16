@@ -26,5 +26,5 @@ The labels were inspired by Dave Lunny's blog post, ["Sane Github Labels"](https
 
 ## Milestones
 There are also [milestones](https://github.com/matthewadams/yaktor-issues/milestones) defined for each repository listed above, in the form `<repo>@<version>`.
-Open milestones include the next *patch* (`x.y.z`), *minor* (`x.y.0`) & *major* (`x.0.0`)release levels.
+Open milestones include the next *patch* (`x.y.z`), *minor* (`x.y.0`) & *major* (`x.0.0`) release levels.
 Closed milestones have been released.
