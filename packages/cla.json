@@ -1,0 +1,6 @@
+[
+  { "name": "icla:signed", "color": "#009800" },
+  { "name": "icla:unsigned", "color": "#e11d21" },
+  { "name": "gcla:signed", "color": "#009800" },
+  { "name": "gcla:unsigned", "color": "#e11d21" }
+]

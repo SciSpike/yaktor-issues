@@ -1,0 +1,6 @@
+[
+  { "name": "type:bug", "color": "#e11d21" },
+  { "name": "type:maintenance", "color": "#fbca04" },
+  { "name": "type:enhancement", "color": "#84b6eb" },
+  { "name": "type:question", "color": "#cc317c" }
+]

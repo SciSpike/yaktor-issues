@@ -1,0 +1,6 @@
+[
+  { "name": "team:core", "color": "#e11d21" },
+  { "name": "team:ui", "color": "#fbca04" },
+  { "name": "team:doc", "color": "#84b6eb" },
+  { "name": "team:marketing", "color": "#84b6eb" }
+]
