@@ -1,6 +1,0 @@
-[
-  { "name": "priority:low", "color": "#009800" },
-  { "name": "priority:medium", "color": "#fbca04" },
-  { "name": "priority:high", "color": "#eb6420" },
-  { "name": "priority:critical", "color": "#e11d21" }
-]
