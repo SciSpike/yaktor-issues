@@ -3,7 +3,7 @@
 This repository is only for issues relating to the various Yaktor repositories.
 There is no product source code in this repository.
 
-> TIP: To reference an issue contained in this repository from a commit message in another repository's commit, use the string `SciSpike/yaktor-issues/n`, where `n` is the issue number in this repository.
+> TIP: To reference an issue contained in this repository from a commit message in another repository's commit, use the string `SciSpike/yaktor-issues#n`, where `n` is the issue number in this repository.
 
 ## Repositories whose Issues Are Managed Here
 The following repositories use this repository for their issue management:
