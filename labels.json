@@ -25,6 +25,7 @@
   { "name": "team:ui", "color": "#fbca04" },
   { "name": "team:doc", "color": "#84b6eb" },
   { "name": "team:marketing", "color": "#84b6eb" },
+  { "name": "team:infra", "color": "#009800" },
 
   { "name": "type:bug", "color": "#e11d21" },
   { "name": "type:maintenance", "color": "#fbca04" },
