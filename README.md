@@ -13,6 +13,7 @@ The following repositories use this repository for their issue management:
 * https://github.com/SciSpike/yaktor-auth
 * https://github.com/SciSpike/yaktor-ui-angular1
 * https://github.com/SciSpike/yaktor-docs
+* https://github.com/SciSpike/yaktor-init
 * https://github.com/SciSpike/docker-yaktor-node
 
 Those repositories do not have their **Issues** feature enabled.
